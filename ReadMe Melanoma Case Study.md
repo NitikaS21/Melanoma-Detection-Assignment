@@ -33,9 +33,6 @@ Seborrheic keratosis
 Squamous cell carcinoma
 Vascular lesion
 
-## Conclusions:
-* We have built a decent model which is free of overfitting and has good enough accuracy on training as well as validation sets.
-
 
 ## Technologies Used
 - pathlib
@@ -46,6 +43,12 @@ Vascular lesion
 - os
 - PIL
 -keras (layers / sequential)
+
+## Conclusions:
+* The accuracy is - 91.4% and validation accuracy is - 83.8% which is good enough.
+* We have built a decent model which is free of overfitting and has good enough accuracy on training as well as validation sets.
+
+
 
 
 
